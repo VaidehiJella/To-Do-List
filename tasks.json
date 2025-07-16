@@ -1,0 +1,14 @@
+[
+  {
+    "description": "doing dsa project",
+    "priority": 3,
+    "due": "2025-9-12",
+    "completed": true
+  },
+  {
+    "description": "drink water",
+    "priority": 1,
+    "due": "",
+    "completed": true
+  }
+]
